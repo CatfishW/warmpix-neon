@@ -8,6 +8,16 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![赛博霓虹封面：可控霓虹灯与灯光控制台](docs/screenshots/01_cover.png)
+
+![可控霓虹灯](docs/screenshots/02_lights.png)
+
+![霓虹装饰灯具](docs/screenshots/03_decor.png)
+
+![十六通道灯光控制台与功能一览](docs/screenshots/04_features.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.0.4）。
